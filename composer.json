@@ -1,5 +1,5 @@
 {
-    "name": "rohit/yii2-jwt",
+    "name": "rohitsuthar/yii2-jwt",
     "description": "JWT (JSON Web Tokens) decode, verify and generate for the Yii2 framework",
     "keywords": ["yii2", "extension", "jwt", "json", "web-token", "HS256", "authorization"],
     "homepage": "https://github.com/rohitsuthar/yii2-jwt",
