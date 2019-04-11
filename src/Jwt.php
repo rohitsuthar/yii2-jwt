@@ -6,13 +6,13 @@
  * @version   1.0.0
  */
 
-namespace rohitsuthar\jwt;
+namespace rohitsuthar\jsonwebtoken;
 
 use Yii;
 use yii\base\Component;
 use yii\base\Model;
 
-class JwtController extends Component {
+class Jwt extends Component {
 
     //build the signature and return the token
     public function generateToken($header_arr = [], $payout_arr = [], $secret) {
