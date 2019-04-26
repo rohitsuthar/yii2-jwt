@@ -23,4 +23,6 @@
             "dev-devel": "1.0.x-dev"
         }
     }
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
