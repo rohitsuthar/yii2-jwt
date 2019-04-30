@@ -12,7 +12,7 @@ use Yii;
 use yii\base\Component;
 use yii\base\Model;
 
-class Jwt extends Component {
+class JWT extends Component {
 
     //build the signature and return the token
     public function generateToken($header_arr = [], $payout_arr = [], $secret) {
